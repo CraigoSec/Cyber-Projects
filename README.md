@@ -1,2 +1,2 @@
-# Cyber-Projects-CTFs-Labs
+# Cyber-Projects
 Write-ups on Projects/CTFs/Labs
